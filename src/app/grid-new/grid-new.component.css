@@ -1,0 +1,16 @@
+.old-car {
+    background-color: rgb(200, 243, 229) !important;
+}
+
+.very-old-car {
+    background-color: #2CA8B1 !important;
+    color: #ffffff !important;
+}
+
+.hyperlink{
+    color: #008ce6;
+    cursor: pointer;
+}
+.grid-padding{
+    padding: 20px 20px 20px 20px;
+}
